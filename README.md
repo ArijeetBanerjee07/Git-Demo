@@ -2,3 +2,5 @@
 This is my first repo
 # favLanguage
 c++, python (AI Application)
+# favperson
+priyee
